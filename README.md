@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**Schpinoza/Schpinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋, I’m Tal Gabrieli👨‍💻
+💻 About Me
+* 💼 I'm looking for a full-time Fullstack software developer position.
+* 💪 I'm a self-taught developer, continuously searching for challenges and knowledge.
+* 🎈 I'm a great team player, always happy to help others.
+🛠 Tech Stack
+* 🎨 HTML5, CSS3, Bootstrap, jQuery
+* 🧰 JavaScript, Node.js, React, Express.js,
+* 🛢 MongoDB, Mongoose, Firebase
+* ⚙️ Git, GitHub, Bash
+* 🔧 Visual Studio Code, Visual Studio,
+✨ Quick Facts
+* 🎿 Hobbies other than coding : Surfing, Kite surfing, Skydiving, Climbing, Snowboarding.
+* 📫 How to reach me: talgab121@gmail.com
+📝 Connect with me
+* Linedkin: linkedin.com/in/talgabrieli
