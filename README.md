@@ -12,6 +12,6 @@ Hi there 👋, I’m Tal Gabrieli👨‍💻
 ✨ Quick Facts
 * 🎿 Hobbies other than coding : Surfing, Kite surfing, Skydiving, Climbing, Snowboarding.
 * 📫 How to reach me: talgab121@gmail.com
-📝 Connect with me
 
+📝 Connect with me
 * <a href="https://linkedin.com/in/talgabrieli">Linkedin</a>
